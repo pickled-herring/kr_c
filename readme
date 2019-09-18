@@ -1,0 +1,30 @@
+
+K&R C code by me, a dumbass
+===========================
+
+This is a small repo that contains mostly small and experimental C code that
+I maintain mainly as practice to keep my C skills on point. This repo is messy
+and stupid and not meant to be your usual code repo in anyway or form. It's a
+doodle book of sorts so of course it's messy. Initially alot of this code was
+written while I was rereading Kernighan & Ritchie (78-88). There are no Makefile
+here, just c code. Pick a file and gcc it, I don't care. If there are Makefiles
+then it's to link code.
+
+There are no licenses here. I don't think anyone would care if you stole someone's
+scrap book. Lots of code here is in the K&R book anyway.
+
+I don't make the distinction between other people's code and my own even though I
+should, but then most of this code is (should be I hope) simple enough to not need
+citation. That'd be like patenting the stick figure. I don't mean any disrespect in
+not citing other's code, I'm just wayy to lazy
+
+Style
+=====
+
+Most of the code follows a sortof linux kernel style - suckless style hybrid. Are
+they good standards? I hope so. I mostly picked them because they have a reason to
+be. I.E. tabs should be 8 characters since they help with clearly breaking your code
+up to blocks, espcially if your dayjob is to look at blocks of code. I don't make
+them 8 spaces though because if someone else prefer 4 space tabs well then they can
+do that.
+
