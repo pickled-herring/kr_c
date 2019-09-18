@@ -16,6 +16,6 @@ main(void)
 
 	strcpy(d,s);
 	printf("%s\n", d);
-	
+
 	return 0;
 }
